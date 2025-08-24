@@ -16,15 +16,13 @@ This is a simple Machine Learning project where we predict whether a person is d
 
 ---
 📂 Project Structure
-bash
-Copy
-Edit
-diabetes-prediction/
+
 │-- streamlitapi.py              # Streamlit app for deployment  
 │-- cleaning.ipynb # Jupyter notebook with ML pipeline  
 │-- ada_classification_model.pkl # Saved ML model  
 │-- ada_scaler_model.pkl # Saved Scaler   
 │-- README.md            # Project description  
+
 📊 Dataset Used
 The dataset is the PIMA Indians Diabetes Dataset, which contains medical information such as:
 
